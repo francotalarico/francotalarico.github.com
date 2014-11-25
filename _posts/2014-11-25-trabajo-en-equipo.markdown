@@ -68,8 +68,10 @@ Las aves que van detrás emiten sonidos intentando animar a los que van delante,
 	<li>Revertir archivos a un estado anterior</li>
 	<li>Revertir el proyecto entero a otro estado</li>
 	<li>Comparar cambios a lo largo del tiempo</li>
-	<li>Ver quién modificó por última</li>
+	<li>Ver quién modificó por última vez</li>
 	<li>Recuperar archivos</li>
 	<li>Unir cambios al proyecto base</li>
 	<li>Crear ramas sin modificar el proyecto general</li>
 </ul>
+
+<p>En la próxima publicación continuaremos viendo más contenido sobre el uso de sistemas de control de versiones como <strong>git</strong>.</p>
